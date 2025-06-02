@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\4th Semester\DSA_Lab\DSA_Final\SpellChecker\x64\Debug\hunspell-1.7-0.dll
+C:\Users\user\Desktop\4th Semester\DSA_Lab\DSA_Final\SpellChecker\SpellChecker\x64\Debug\SpellChe.334124CC.Up2Date
